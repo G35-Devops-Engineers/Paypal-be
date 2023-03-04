@@ -5,3 +5,5 @@ net.application
 node.com
 python.application
 cherry picks
+git pull
+git fetch
